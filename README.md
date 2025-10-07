@@ -1,2 +1,2 @@
 # dartfuncsalario0.5
-estudo de dart criando um código que insere um nome e um salario, calcula o salario e permite aumentar ele
+Código feito durante meus estudos de Engenharia de Software, ele faz com que o usuário insira as informações nome, salário líquido e bruto, então faz funções para calcular o salário líquido com base no salário bruto, e uma função que possibilita o aumento salarial em porcentagem.
